@@ -1,247 +1,265 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "joel",
       "age": 24,
       "email": "joel@mail.com",
       "password": "123",
+      "role": "admin",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 2,
-      "name": "jonathan",
-      "age": 18,
-      "email": "jonathan@mail.com",
-      "password": "abc",
-      "status": "training",
-      "isActive": true
-    },
-    {
-      "id": 3,
-      "name": "omar",
-      "age": 21,
-      "email": "omar@mail.com",
-      "password": "321",
-      "status": "training",
-      "isActive": true
-    },
-    {
-      "id": 4,
+      "id": "4",
       "name": "andres",
       "age": 24,
       "email": "andres@mail.com",
       "password": "asd",
+      "role": "admin",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Juanse",
       "age": 17,
       "email": "juanse@mail.com",
       "password": "qwe",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Pablo",
       "age": 27,
       "email": "pablo@mail.com",
       "password": "111",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Yesid",
       "age": 24,
       "email": "yesid@mail.com",
       "password": "222",
+      "role": "admin",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Angel",
       "age": 23,
       "email": "angel@mail.com",
       "password": "333",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Alejandro",
       "age": 58,
       "email": "alejandro@mail.com",
       "password": "444",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Valeria Michelle",
       "age": 17,
       "email": "valeria@mail.com",
       "password": "555",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Didian",
       "age": 21,
       "email": "didian@mail.com",
       "password": "666",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "jaime",
       "age": 18,
       "email": "jaime@mail.com",
       "password": "777",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 15,
+      "id": "13",
       "name": "salomon",
       "age": 20,
       "email": "salomon@mail.com",
       "password": "888",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 16,
+      "id": "14",
       "name": "Andres",
       "age": 17,
       "email": "andres2@mail.com",
       "password": "999",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 17,
+      "id": "15",
       "name": "Matias",
       "age": 19,
       "email": "matias@mail.com",
       "password": "mat",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 18,
+      "id": "16",
       "name": "miguel",
       "age": 18,
       "email": "miguel@mail.com",
       "password": "mig",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 19,
+      "id": "17",
       "name": "mateo",
       "age": 20,
       "email": "mateo@mail.com",
       "password": "mto",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 20,
+      "id": "18",
       "name": "Valeria",
       "age": 19,
       "email": "valeria2@mail.com",
       "password": "val",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 21,
+      "id": "19",
       "name": "santiago",
       "age": 22,
       "email": "santiago@mail.com",
       "password": "san",
+      "role": "admin",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 22,
+      "id": "20",
       "name": "yulianis",
       "age": 24,
       "email": "yulianis@mail.com",
       "password": "yul",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 23,
+      "id": "21",
       "name": "jamh",
       "age": 23,
       "email": "jamh@mail.com",
       "password": "jam",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 24,
+      "id": "22",
       "name": "eymi",
       "age": 28,
       "email": "eymi@mail.com",
       "password": "eym",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 25,
+      "id": "23",
       "name": "santiago otalora",
       "age": 20,
       "email": "otalora@mail.com",
       "password": "oto",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 26,
+      "id": "24",
       "name": "Andres Benavides",
       "age": 19,
       "email": "benavides@mail.com",
       "password": "ben",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 27,
+      "id": "25",
       "name": "Camilo Meza",
       "age": 24,
       "email": "camilo@mail.com",
       "password": "cam",
+      "role": "admin",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 28,
+      "id": "26",
       "name": "Jhonatan Sanchez",
       "age": 21,
       "email": "jhonatan@mail.com",
       "password": "jho",
+      "role": "user",
       "status": "training",
       "isActive": true
     },
     {
-      "id": 29,
+      "id": "27",
       "name": "Keyla gonzalez",
       "age": 17,
       "email": "keyla@mail.com",
       "password": "key",
+      "role": "user",
       "status": "training",
+      "isActive": true
+    },
+    {
+      "id": "28",
+      "name": "Admin Test",
+      "age": 30,
+      "email": "a@a.com",
+      "password": "a",
+      "role": "admin",
+      "status": "active",
       "isActive": true
     }
   ]
+  
 }
